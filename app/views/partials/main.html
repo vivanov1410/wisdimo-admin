@@ -1,0 +1,11 @@
+<header ng-controller="NavCtrl">
+  <div ng-include="'partials/nav.html'"></div>
+</header>
+
+<div class="container" ui-view></div>
+
+<footer>
+  <p class="text-center">
+    <span ng-bind="currentYear"></span> &copy; Wisdimo.Admin by <a href="http://exilium.ca" target="_">Exilium Studio Inc.</a>
+  </p>
+</footer>

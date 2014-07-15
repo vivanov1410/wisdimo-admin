@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/views/partials/accounts.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/controllers/AccountsCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/controllers/DashboardCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/controllers/MainCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/services/AuthSvc.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/controllers/NavCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/views/index.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/views/partials/nav.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/views/partials/dashboard.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/views/partials/main.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/app/scripts/app.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/project.sublime-project",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-admin/server.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/index.html",
+		"/C/Users/vivanov/Downloads/CodeCogsEqn.svg",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/app.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/services/AccountValidatorSvc.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/services/AuthSvc.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/NavCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/partials/main.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/LoginCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/DashboardCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/partials/nav.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/partials/dashboard.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/MainCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/AuthCtrl.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/modules/Settings.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/modules/Globals.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/partials/auth.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/views/partials/login.html",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/lib/controllers/index.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/styles/main.scss",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/modules/Config.js",
+		"/C/Users/vivanov/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/main.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/app/scripts/controllers/navbar.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/test/client/spec/controllers/main.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/package.json",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/bower.json",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/server.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/lib/controllers/api.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/lib/routes.js",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/.gitignore",
+		"/C/Users/vivanov/repos/wisdimo/wisdimo-app/project.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"th",
+			"accounts",
+			"\">",
+			"GO",
+			"64ec0413-3ad1-4de0-bfc6-a357009094f5",
+			"DashboardCtrl",
+			">\n",
+			"NavCtrl",
+			"Config",
+			"Constants",
+			"AuthSvc",
+			">\n",
+			"Constants",
+			"Config",
+			"settings",
+			"Config",
+			"stateParams",
+			"\"></",
+			">\n",
+			"wisdimo",
+			"wisdimoAppApp",
+			"thing",
+			"dummydata",
+			"challenge",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wisdimoApp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"app/views/index.html"
+			],
+			[
+				"navctl",
+				"app/scripts/controllers/NavCtrl.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"nav",
+				"app/views/partials/nav.html"
+			],
+			[
+				"ap",
+				"app/scripts/app.js"
+			],
+			[
+				"dash",
+				"app/scripts/controllers/DashboardCtrl.js"
+			],
+			[
+				"loginct",
+				"app/scripts/controllers/LoginCtrl.js"
+			],
+			[
+				"inde",
+				"app/views/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}

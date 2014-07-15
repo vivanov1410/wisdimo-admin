@@ -1,0 +1,23 @@
+<div class="page-header">
+  <h1>
+    Questions <small>total {{questions.length || 0}}</small>
+    <a ng-href="#/questions/new" class="btn btn-success btn-lg pull-right"><i class="fa fa-plus"></i>&nbsp; New Question</a>
+  </h1>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <th>Id</th>
+    <th>Question Name</th>
+    <th>Source</th>
+    <th>Difficulty</th>
+  </thead>
+  <tbody>
+    <tr ng-repeat="question in questions">
+      <td><a ng-href="#/questions/{{question.id}}/general">{{question.id}}</a></td>
+      <td>{{question.name}}</td>
+      <td>{{question.source}}</td>
+      <td>{{question.difficulty}}</td>
+    </tr>
+  </tbody>
+</table>

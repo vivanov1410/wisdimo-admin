@@ -1,0 +1,59 @@
+<div class="page-header">
+  <h1>
+    <a ng-href="#/questions"><i class="fa fa-angle-left"></i></a>
+    Create New Question
+  </h1>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <form class="form-horizontal" name="createForm" role="form" ng-submit="create(question, createForm)">
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Question Name</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control input-lg" required autofocus maxlength="32" placeholder="Name" ng-model="question.name">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Difficulty</label>
+        <div class="col-sm-10">
+          <select class="form-control input-lg" ng-options="difficulty.key as difficulty.value for difficulty in difficulties" ng-model="question.difficulty">
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Source</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control input-lg" required maxlength="32" placeholder="Book, article, etc..." ng-model="question.source">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Equasion</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control input-lg" required placeholder="Equasion" ng-model="question.equasion">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Answer</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control input-lg" required placeholder="Answer" ng-model="question.answer">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-xs-3">
+          <button type="submit" class="btn btn-success btn-lg btn-block" ng-disabled="loading">Create Question</button>
+        </div>
+
+        <div class="col-sm-offset-4 col-xs-3">
+          <a href="#/questions" class="btn btn-default btn-lg btn-block" ng-disabled="loading">Close</a>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>

@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/vivanov/repos/wisdimo/wisdimo-admin",
+      "folder_exclude_patterns": [".sass-cache", ".tmp", "node_modules"]
+		}
+	]
+}
