@@ -11,7 +11,7 @@ function ($scope, $location, $fileUploader, Data, Questions, Settings, question)
   }
 
   $scope.question = question;
-  $scope.updateImageSource($scope.question.imageUri);
+  $scope.imageSource = $scope.question.imageUri
 
   // create a uploader with options
   var uploader = $scope.uploader = $fileUploader.create({
